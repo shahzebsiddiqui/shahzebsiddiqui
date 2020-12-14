@@ -1,15 +1,9 @@
-Shahzeb Siddiqui is a HPC Consultant/Software Integration Specialist at [Lawrence Berkeley National Laboratory](https://www.lbl.gov/) at [NERSC](http://nersc.gov/).
-He is part of the [**User Engagement Team**](https://www.nersc.gov/about/nersc-staff/user-engagement/) that is responsible for engaging with NERSC user community.
-
-He is part of the NERSC Consulting team where we help address any incoming issues reported by NERSC users.
-The rest of his time is dedicated towards the [Exascale Computing Project](https://www.exascaleproject.org/)(ECP).
-Shahzeb is part of the [Software Deployment](https://www.exascaleproject.org/research-group/software-deployment-at-the-facilities/) (SD) group
+Shahzeb Siddiqui is a HPC Consultant/Software Integration Specialist at [Lawrence Berkeley National Laboratory](https://www.lbl.gov/) at [NERSC](http://nersc.gov/). He is part of [**User Engagement Team**](https://www.nersc.gov/about/nersc-staff/user-engagement/) that is responsible for engaging with NERSC user community. Shahzeb is part of the NERSC Consulting team where we help address user issues through tickets, and help improve our user documentation.
+Shahzeb is is part of the [Exascale Computing Project](https://www.exascaleproject.org/)(ECP) in [Software Deployment](https://www.exascaleproject.org/research-group/software-deployment-at-the-facilities/) (SD) group
 where he is responsible for building Spack E4S CI pipeline for the DOE facilities.
 
-Shahzeb has been involved in several open-source projects including:
+Shahzeb is the creator of open source tools [buildtest](https://github.com/buildtesters/buildtest) and [lmodule](https://github.com/buildtesters/lmodule) and he is involved in other open-source projects including:
 
- - [buildtest](https://github.com/buildtesters/buildtest)
- - [lmodule](https://github.com/buildtesters/lmodule)
  - [spack](https://github.com/spack)
  - [easybuild](https://github.com/easybuilders)
  - [singularity](https://github.com/hpcng/singularity)
@@ -17,7 +11,7 @@ Shahzeb has been involved in several open-source projects including:
 Shahzeb has experience installing and managing large software stack, cluster manager (Bright Cluster Manager, Cobbler), configuration management (Ansible), GPFS,
 Slurm and LSF. Shahzeb is an experienced Developer, Dev-Ops, System Administrator and often involved in open-source projects.
 
-Shahzeb Siddiqui started out his career in High Performance Computing (HPC) in 2012 at King Abdullah University of Science and Technology (KAUST)
+Shahzeb Siddiqui started out his career in High Performance Computing (HPC) in 2012 at [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en)
 while pursuing his Masters. His focus in HPC includes Parallel Programming, Performance Tuning, Containers (Singularity, Docker),
 Linux system administration, Scientific Software Installation and testing, Scheduler Optimization, and Job Metrics.
 Shahzeb has held multiple roles in his HPC career in the following companies: Dassault-Systemes, Pfizer, Penn State, and IBM.
