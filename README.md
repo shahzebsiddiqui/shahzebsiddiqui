@@ -58,6 +58,7 @@ Conferences
 - [Buildtest: HPC Software Stack Testing Framework](https://archive.fosdem.org/2020/schedule/event/buildtest/) at [FOSDEM'20 HPC Big Data and Data Science devroom](https://archive.fosdem.org/2020/schedule/track/hpc_big_data_and_data_science/), Feb 1-2, 2020
 - [Building an Easybuild Container Library in Sylabs Cloud](https://users.ugent.be/~kehoste/eum20/eum20_02_shahzeb_easybuild_container_library.pdf) at [5th Easybuild User Meeting](https://github.com/easybuilders/easybuild/wiki/5th-EasyBuild-User-Meeting), Jan 29-31, 2020
 - [buildtest: HPC Software Stack Testing Framework](https://users.ugent.be/~kehoste/eum20/eum20_05_shahzeb_buildtest.pdf) at [5th Easybuild User Meeting](https://github.com/easybuilders/easybuild/wiki/5th-EasyBuild-User-Meeting), Jan 29-31, 2020
+- [Spack Community BoF](https://sc20.supercomputing.org/presentation/?id=bof107&sess=sess310) at SC20, Nov 18, 2020.
 - [Buildtest: A Software Testing Framework with Module Operations for HPC systems](https://sc19.supercomputing.org/presentation/?id=ws_hust103&sess=sess116) at SC'19 in [HPC User Support Tools Workshop](https://hust-workshop.github.io/), Nov 18, 2019
 - [Software Stack Testing with buildtest](https://hpckp.org/past-edition/hpckp-18/#software-stack-testing-with-buildtest) at [HPCKP'18](https://hpckp.org/past-edition/hpckp-18/), June 21-22, 2018
 - [HPC Application Testing Framework - buildtest](https://hpckp.org/wp-content/uploads/2020/05/11-HPCKP17-Shahzeb-Siddiqui.pdf) at  [HPCKP'17](https://hpckp.org/past-edition/hpckp-17/), June 15-16, 2017
