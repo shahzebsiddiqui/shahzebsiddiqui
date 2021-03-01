@@ -52,6 +52,7 @@ Technology Stack
 Conferences
 ------------
 
+- Panel moderator for [Benchmarking in the Data Center: Expanding to the Cloud](https://parallel.computer/index.html) at [Principles and Practice of Parallel Programming (PPoPP) 2021](https://ppopp21.sigplan.org/), Feb 28th 2021
 - [buildtest: HPC Testing Framework for Acceptance Testing](https://fosdem.org/2021/schedule/event/buildtest/) at [FOSDEM21 HPC, Big Data and Data Science devroom](https://fosdem.org/2021/schedule/track/hpc_big_data_and_data_science/), Feb 7th 2021
 - [buildtest: Testing Framework for HPC systems](https://easybuild.io/eum/022_eum21_buildtest.pdf) at [EasyBuild User Meeting 2021](https://easybuild.io/eum/), Jan 29th, 2021
 - [Automate Module Testing with Lmodule](https://easybuild.io/eum/023_eum21_Lmodule.pdf) at [EasyBuild User Meeting 2021](https://easybuild.io/eum/) on Jan 29th, 2021
