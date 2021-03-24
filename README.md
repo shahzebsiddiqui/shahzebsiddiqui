@@ -1,12 +1,16 @@
-Shahzeb Siddiqui is a HPC Consultant/Software Integration Specialist at [Lawrence Berkeley National Laboratory](https://www.lbl.gov/) at [NERSC](http://nersc.gov/). He is part of [**User Engagement Team**](https://www.nersc.gov/about/nersc-staff/user-engagement/) that is responsible for engaging with NERSC user community. Shahzeb is part of the NERSC Consulting team where we help address user issues through tickets, and help improve our user documentation.
-Shahzeb is is part of the [Exascale Computing Project](https://www.exascaleproject.org/)(ECP) in [Software Deployment](https://www.exascaleproject.org/research-group/software-deployment-at-the-facilities/) (SD) group
-where he is responsible for building Spack E4S CI pipeline for the DOE facilities.
+Shahzeb Siddiqui is a HPC Consultant/Software Integration Specialist at [Lawrence Berkeley National Laboratory](https://www.lbl.gov/) at [NERSC](http://nersc.gov/). He is part of [**User Engagement Team**](https://www.nersc.gov/about/nersc-staff/user-engagement/) that is responsible for engaging with NERSC user community through user support tickets, user outreach, training, documentation. Shahzeb is part of the [Exascale Computing Project](https://www.exascaleproject.org/)(ECP) in [Software Deployment](https://www.exascaleproject.org/research-group/software-deployment-at-the-facilities/) (SD) group
+where he is responsible for building Spack [Extreme-Scale Scientific Software Stack (E4S)](https://e4s-project.github.io/) at the DOE facilities.
 
-Shahzeb is the creator of open source tools [buildtest](https://github.com/buildtesters/buildtest) and [lmodule](https://github.com/buildtesters/lmodule) and he is involved in other open-source projects including:
+Shahzeb is the creator two open source projects: 
+ - [buildtest](https://github.com/buildtesters/buildtest): HPC Testing Framework
+ - [lmodule](https://github.com/buildtesters/lmodule) - Python API for module system 
+
+He is involved in other open-source projects including:
 
  - [spack](https://github.com/spack)
  - [easybuild](https://github.com/easybuilders)
  - [singularity](https://github.com/hpcng/singularity)
+ - [E4S-Project](https://github.com/E4S-Project)
 
 Shahzeb has experience installing and managing large software stack, cluster manager (Bright Cluster Manager, Cobbler), configuration management (Ansible), GPFS,
 Slurm and LSF. Shahzeb is an experienced Developer, Dev-Ops, System Administrator and often involved in open-source projects.
@@ -52,6 +56,8 @@ Technology Stack
 Conferences
 ------------
 
+- **Acceptance Test with Buildtest for Cori System** at [High Performance Computing Benchmarking and Optimization (HPBench20)](http://hpcs2020.cisedu.info/4-program), Mar 27th 2021
+- **Acceptance Test with buildtest and Cori Testsuite** at [SEA's Improving Scientific Software Conference and Tutorials 2021](https://sea.ucar.edu/conference/2021), Mar 23rd 2021
 - Panel moderator for [Benchmarking in the Data Center: Expanding to the Cloud](https://parallel.computer/index.html) at [Principles and Practice of Parallel Programming (PPoPP) 2021](https://ppopp21.sigplan.org/), Feb 28th 2021
 - [buildtest: HPC Testing Framework for Acceptance Testing](https://fosdem.org/2021/schedule/event/buildtest/) at [FOSDEM21 HPC, Big Data and Data Science devroom](https://fosdem.org/2021/schedule/track/hpc_big_data_and_data_science/), Feb 7th 2021
 - [buildtest: Testing Framework for HPC systems](https://easybuild.io/eum/022_eum21_buildtest.pdf) at [EasyBuild User Meeting 2021](https://easybuild.io/eum/), Jan 29th, 2021
