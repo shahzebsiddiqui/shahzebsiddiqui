@@ -53,20 +53,32 @@ Technology Stack
 | Misc                     | Restructured Text, Markdown, Shell Scripting, Cyber-security, Computer Architecture                                              |
 
 
-Conferences
-------------
+## Conferences
 
+
+### 2021
+
+
+- [**HPC System and Software testing via buildtest**](https://drive.google.com/file/d/134bZIWyp0AL60I1bW4oWywCYW0oV8ckB/view?usp=sharing) at [ECP Annual Meeting 2021](https://whova.com/portal/webapp/ecpan_202104/Agenda/1511107), April 15th 2021
+- **Spack E4S Facility Pipeline Update** at [ECP Annual Meeting 2021](https://whova.com/portal/webapp/ecpan_202104/Agenda/1511089), April 14th 2021
 - **Acceptance Test with Buildtest for Cori System** at [High Performance Computing Benchmarking and Optimization (HPBench20)](http://hpcs2020.cisedu.info/4-program), Mar 27th 2021
 - **Acceptance Test with buildtest and Cori Testsuite** at [SEA's Improving Scientific Software Conference and Tutorials 2021](https://sea.ucar.edu/conference/2021), Mar 23rd 2021
 - Panel moderator for [Benchmarking in the Data Center: Expanding to the Cloud](https://parallel.computer/index.html) at [Principles and Practice of Parallel Programming (PPoPP) 2021](https://ppopp21.sigplan.org/), Feb 28th 2021
-- [buildtest: HPC Testing Framework for Acceptance Testing](https://fosdem.org/2021/schedule/event/buildtest/) at [FOSDEM21 HPC, Big Data and Data Science devroom](https://fosdem.org/2021/schedule/track/hpc_big_data_and_data_science/), Feb 7th 2021
-- [buildtest: Testing Framework for HPC systems](https://easybuild.io/eum/022_eum21_buildtest.pdf) at [EasyBuild User Meeting 2021](https://easybuild.io/eum/), Jan 29th, 2021
-- [Automate Module Testing with Lmodule](https://easybuild.io/eum/023_eum21_Lmodule.pdf) at [EasyBuild User Meeting 2021](https://easybuild.io/eum/) on Jan 29th, 2021
-- [Buildtest: HPC Software Stack Testing Framework](https://archive.fosdem.org/2020/schedule/event/buildtest/) at [FOSDEM'20 HPC Big Data and Data Science devroom](https://archive.fosdem.org/2020/schedule/track/hpc_big_data_and_data_science/), Feb 1-2, 2020
-- [Building an Easybuild Container Library in Sylabs Cloud](https://users.ugent.be/~kehoste/eum20/eum20_02_shahzeb_easybuild_container_library.pdf) at [5th Easybuild User Meeting](https://github.com/easybuilders/easybuild/wiki/5th-EasyBuild-User-Meeting), Jan 29-31, 2020
-- [buildtest: HPC Software Stack Testing Framework](https://users.ugent.be/~kehoste/eum20/eum20_05_shahzeb_buildtest.pdf) at [5th Easybuild User Meeting](https://github.com/easybuilders/easybuild/wiki/5th-EasyBuild-User-Meeting), Jan 29-31, 2020
-- [Spack Community BoF](https://sc20.supercomputing.org/presentation/?id=bof107&sess=sess310) at SC20, Nov 18, 2020.
-- [Buildtest: A Software Testing Framework with Module Operations for HPC systems](https://sc19.supercomputing.org/presentation/?id=ws_hust103&sess=sess116) at SC'19 in [HPC User Support Tools Workshop](https://hust-workshop.github.io/), Nov 18, 2019
-- [Software Stack Testing with buildtest](https://hpckp.org/past-edition/hpckp-18/#software-stack-testing-with-buildtest) at [HPCKP'18](https://hpckp.org/past-edition/hpckp-18/), June 21-22, 2018
-- [HPC Application Testing Framework - buildtest](https://hpckp.org/wp-content/uploads/2020/05/11-HPCKP17-Shahzeb-Siddiqui.pdf) at  [HPCKP'17](https://hpckp.org/past-edition/hpckp-17/), June 15-16, 2017
+- [**buildtest: HPC Testing Framework for Acceptance Testing**](https://fosdem.org/2021/schedule/event/buildtest/) at [FOSDEM21 HPC, Big Data and Data Science devroom](https://fosdem.org/2021/schedule/track/hpc_big_data_and_data_science/), Feb 7th 2021
+- [**buildtest: Testing Framework for HPC systems**](https://easybuild.io/eum/022_eum21_buildtest.pdf) at [EasyBuild User Meeting 2021](https://easybuild.io/eum/), Jan 29th, 2021
+- [**Automate Module Testing with Lmodule**](https://easybuild.io/eum/023_eum21_Lmodule.pdf) at [EasyBuild User Meeting 2021](https://easybuild.io/eum/) on Jan 29th, 2021
+
+### 2020
+
+- [**Spack Community BoF**](https://sc20.supercomputing.org/presentation/?id=bof107&sess=sess310) at SC20, Nov 18, 2020.
+- [**Buildtest: HPC Software Stack Testing Framework**](https://archive.fosdem.org/2020/schedule/event/buildtest/) at [FOSDEM'20 HPC Big Data and Data Science devroom](https://archive.fosdem.org/2020/schedule/track/hpc_big_data_and_data_science/), Feb 1-2, 2020
+- [**Building an Easybuild Container Library in Sylabs Cloud**](https://users.ugent.be/~kehoste/eum20/eum20_02_shahzeb_easybuild_container_library.pdf) at [5th Easybuild User Meeting](https://github.com/easybuilders/easybuild/wiki/5th-EasyBuild-User-Meeting), Jan 29-31, 2020
+- [**buildtest: HPC Software Stack Testing Framework**](https://users.ugent.be/~kehoste/eum20/eum20_05_shahzeb_buildtest.pdf) at [5th Easybuild User Meeting](https://github.com/easybuilders/easybuild/wiki/5th-EasyBuild-User-Meeting), Jan 29-31, 2020
+
+
+### Prior to 2020
+
+- [**Buildtest: A Software Testing Framework with Module Operations for HPC systems**](https://sc19.supercomputing.org/presentation/?id=ws_hust103&sess=sess116) at SC'19 in [HPC User Support Tools Workshop](https://hust-workshop.github.io/), Nov 18, 2019
+- [**Software Stack Testing with buildtest**](https://hpckp.org/past-edition/hpckp-18/#software-stack-testing-with-buildtest) at [HPCKP'18](https://hpckp.org/past-edition/hpckp-18/), June 21-22, 2018
+- [**HPC Application Testing Framework - buildtest**](https://hpckp.org/wp-content/uploads/2020/05/11-HPCKP17-Shahzeb-Siddiqui.pdf) at  [HPCKP'17](https://hpckp.org/past-edition/hpckp-17/), June 15-16, 2017
 
