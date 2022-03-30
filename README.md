@@ -1,21 +1,25 @@
-[![shahzebsiddiqui's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahzebsiddiqui&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahzebsiddiqui&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![shahzebsiddiqui's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahzebsiddiqui&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahzebsiddiqui&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Shahzeb Siddiqui is a HPC Consultant/Software Integration Specialist at [Lawrence Berkeley National Laboratory](https://www.lbl.gov/) at [NERSC](http://nersc.gov/). He is part of [**User Engagement Team**](https://www.nersc.gov/about/nersc-staff/user-engagement/) that is responsible for engaging with NERSC user community through user support tickets, user outreach, training, documentation. Shahzeb is part of the [Exascale Computing Project](https://www.exascaleproject.org/)(ECP) in [Software Deployment](https://www.exascaleproject.org/research-group/software-deployment-at-the-facilities/) (SD) group
 where he is responsible for building Spack [Extreme-Scale Scientific Software Stack (E4S)](https://e4s-project.github.io/) at the DOE facilities.
 
-Shahzeb is the creator two open source projects: 
- - [buildtest](https://github.com/buildtesters/buildtest): HPC Testing Framework
- - [lmodule](https://github.com/buildtesters/lmodule) - Python API for module system 
+Shahzeb is the creator of [buildtest](https://github.com/buildtesters/buildtest) an HPC testing framework to automate build and execution of tests. [lmodule](https://github.com/buildtesters/lmodule) is a Python API for module system, this was created from the buildtest project and it is a standalone API that can be used for testing modules. 
 
-He is involved in other open-source projects including:
+Shahzeb created slurm utility called [jobstats](https://github.com/shahzebsiddiqui/jobstats) which is a wrapper to `sacct` and `sreport` to show slurm job details. 
 
- - [spack](https://github.com/spack)
- - [easybuild](https://github.com/easybuilders)
- - [singularity](https://github.com/hpcng/singularity)
- - [E4S-Project](https://github.com/E4S-Project)
+# Active Projects
+
+Shahzeb actively contributes to the following projects
+
+[![buildtest](https://github-readme-stats.vercel.app/api/pin/?username=shahzebsiddiqui&repo=buildtest)](https://github.com/buildtesters/buildtest) 
+[![lmodule](https://github-readme-stats.vercel.app/api/pin/?username=shahzebsiddiqui&repo=lmodule)](https://github.com/buildtesters/lmodule)
+[![spack](https://github-readme-stats.vercel.app/api/pin/?username=shahzebsiddiqui&repo=spack)](https://github.com/spack/spack)
+[![spack-configs](https://github-readme-stats.vercel.app/api/pin/?username=shahzebsiddiqui&repo=spack-configs)](https://github.com/spack/spack-configs)
+[![easybuild](https://github-readme-stats.vercel.app/api/pin/?username=shahzebsiddiqui&repo=easybuild-easyconfigs)](https://github.com/easybuilders/easybuild-easyconfigs)
+[![e4s](https://github-readme-stats.vercel.app/api/pin/?username=shahzebsiddiqui&repo=e4s)](https://github.com/E4S-Project/e4s)
+[![jobstats](https://github-readme-stats.vercel.app/api/pin/?username=shahzebsiddiqui&repo=jobstats)](https://github.com/shahzebsiddiqui/jobstats)
+[![spack-infrastructure](https://github-readme-stats.vercel.app/api/pin/?username=shahzebsiddiqui&repo=spack-infrastructure)](https://github.com/NERSC/spack-infrastructure)
+
 
 Shahzeb has experience installing and managing large software stack, cluster manager (Bright Cluster Manager, Cobbler), configuration management (Ansible), GPFS,
 Slurm and LSF. Shahzeb is an experienced Developer, Dev-Ops, System Administrator and often involved in open-source projects.
