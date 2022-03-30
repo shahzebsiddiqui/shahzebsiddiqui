@@ -1,3 +1,8 @@
+[![shahzebsiddiqui's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahzebsiddiqui&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahzebsiddiqui&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 Shahzeb Siddiqui is a HPC Consultant/Software Integration Specialist at [Lawrence Berkeley National Laboratory](https://www.lbl.gov/) at [NERSC](http://nersc.gov/). He is part of [**User Engagement Team**](https://www.nersc.gov/about/nersc-staff/user-engagement/) that is responsible for engaging with NERSC user community through user support tickets, user outreach, training, documentation. Shahzeb is part of the [Exascale Computing Project](https://www.exascaleproject.org/)(ECP) in [Software Deployment](https://www.exascaleproject.org/research-group/software-deployment-at-the-facilities/) (SD) group
 where he is responsible for building Spack [Extreme-Scale Scientific Software Stack (E4S)](https://e4s-project.github.io/) at the DOE facilities.
 
