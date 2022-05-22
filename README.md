@@ -91,3 +91,6 @@ Technology Stack
 - [**Software Stack Testing with buildtest**](https://hpckp.org/past-edition/hpckp-18/#software-stack-testing-with-buildtest) at [HPCKP'18](https://hpckp.org/past-edition/hpckp-18/), June 21-22, 2018
 - [**HPC Application Testing Framework - buildtest**](https://hpckp.org/wp-content/uploads/2020/05/11-HPCKP17-Shahzeb-Siddiqui.pdf) at  [HPCKP'17](https://hpckp.org/past-edition/hpckp-17/), June 15-16, 2017
 
+## Publications
+
+- Siddiqui, Shahzeb, & Shende, Sameer. **Software Deployment Process at NERSC: Deploying the Extreme-scale Scientific Software Stack (E4S) Using Spack at the National Energy Research Scientific Computing Center (NERSC)[https://www.osti.gov/biblio/1868332-software-deployment-process-nersc-deploying-extreme-scale-scientific-software-stack-e4s-using-spack-national-energy-research-scientific-computing-center-nersc]**, 2022-05-17
