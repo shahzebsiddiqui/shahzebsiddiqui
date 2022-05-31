@@ -96,7 +96,7 @@ Technology Stack
 
 ## Publications
 
-- Siddiqui, Shahzeb, & Shende, Sameer. **[Software Deployment Process at NERSC: Deploying the Extreme-scale Scientific Software Stack (E4S) Using Spack at the National Energy Research Scientific Computing Center (NERSC)](https://www.osti.gov/biblio/1868332-software-deployment-process-nersc-deploying-extreme-scale-scientific-software-stack-e4s-using-spack-national-energy-research-scientific-computing-center-nersc)**, 2022-05-17
-- Shahzeb Siddiqui, **Buildtest: A Software Testing Framework with Module Operations for HPC Systems**, HUST, Springer, March 25, 2020, doi: https://doi.org/10.1007/978-3-030-44728-1_1
-- Shahzeb Siddiqui, Fatemah AlZayer, Saber Feki, **Historic Learning Approach for Auto-tuning OpenACC Accelerated Scientific Applications**, VECPAR, Springer, December 7, 2019, doi: https://doi.org/10.1007/978-3-319-17353-5_19
-- Shahzeb Siddiqui, **Automatic Performance Tuning of Parallel and Accelerated Seismic Imaging Kernels**, EAGE Workshop on High Performance Computing for Upstream, European Association of Geoscientists & Engineer, September 1, 2014, doi: https://doi.org/10.3997/2214-4609.20141941
+- Siddiqui, Shahzeb, & Shende, Sameer. **[Software Deployment Process at NERSC: Deploying the Extreme-scale Scientific Software Stack (E4S) Using Spack at the National Energy Research Scientific Computing Center (NERSC)](https://www.osti.gov/biblio/1868332-software-deployment-process-nersc-deploying-extreme-scale-scientific-software-stack-e4s-using-spack-national-energy-research-scientific-computing-center-nersc)**, 2022-05-17, https://doi.org/10.2172/1868332
+- Shahzeb Siddiqui, **Buildtest: A Software Testing Framework with Module Operations for HPC Systems**, HUST, Springer, March 25, 2020, https://doi.org/10.1007/978-3-030-44728-1_1
+- Shahzeb Siddiqui, Fatemah AlZayer, Saber Feki, **Historic Learning Approach for Auto-tuning OpenACC Accelerated Scientific Applications**, VECPAR, Springer, December 7, 2019, https://doi.org/10.1007/978-3-319-17353-5_19
+- Shahzeb Siddiqui, **Automatic Performance Tuning of Parallel and Accelerated Seismic Imaging Kernels**, EAGE Workshop on High Performance Computing for Upstream, European Association of Geoscientists & Engineer, September 1, 2014, https://doi.org/10.3997/2214-4609.20141941
