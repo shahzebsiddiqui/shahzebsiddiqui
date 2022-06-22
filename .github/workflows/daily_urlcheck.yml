@@ -1,7 +1,5 @@
 name: Daily Check URLs
 
-on: [push, pull_request]
-
 on:
   push:
     branches: [main]
