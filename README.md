@@ -69,7 +69,7 @@ Technology Stack
 ### 2022
 
 - [**E4S at NERSC 2022**](https://www.nersc.gov/users/training/events/e4s-at-nersc-2022/), Aug 25th 2022
-- [**MVAPICH2 at NERSC**](https://docs.google.com/presentation/d/1aYMbitopEGJcnxpbQpiSOcfZlfQgH3gJ/edit?rtpof=true), Aug 24th 2022 at [MVAPICH User Group Meeting 2022](http://mug.mvapich.cse.ohio-state.edu/program/) 
+- [**MVAPICH2 at NERSC**](https://docs.google.com/presentation/d/1aYMbitopEGJcnxpbQpiSOcfZlfQgH3gJ/edit?rtpof=true), Aug 24th 2022 at [MVAPICH User Group Meeting 2022](http://mug.mvapich.cse.ohio-state.edu/program/), [*Video*](https://www.youtube.com/watch?v=IDdupGfF16g) 
 - [**Facility Deployment of E4S at ALCF, OLCF, and NERSC**](https://whova.com/portal/webapp/ecpan_202205/Agenda/2237025), May 3rd 2022 at ECP Annual Meeting 2022
 - [**Spack Infrastructure at NERSC**](https://docs.google.com/presentation/d/1nKEvgwCh4i8c3l9i_35BLv9NnRl4tsRw/edit?usp=sharing&ouid=102126664227037583807&rtpof=true&sd=true), April 5th 2022 at [SEA Improving Scientific Software Conference 2022](https://sea.ucar.edu/conference/2022)
 
