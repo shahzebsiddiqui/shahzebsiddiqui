@@ -68,6 +68,7 @@ Technology Stack
 
 ### 2022
 
+- [**New User Training**](https://www.nersc.gov/users/training/events/new-user-training-sept2022/), Sep 28th 2022
 - [**E4S at NERSC 2022**](https://www.nersc.gov/users/training/events/e4s-at-nersc-2022/), Aug 25th 2022
 - [**MVAPICH2 at NERSC**](https://docs.google.com/presentation/d/1aYMbitopEGJcnxpbQpiSOcfZlfQgH3gJ/edit?rtpof=true), Aug 24th 2022 at [MVAPICH User Group Meeting 2022](http://mug.mvapich.cse.ohio-state.edu/program/), [*Video*](https://www.youtube.com/watch?v=IDdupGfF16g) 
 - [**Facility Deployment of E4S at ALCF, OLCF, and NERSC**](https://whova.com/portal/webapp/ecpan_202205/Agenda/2237025), May 3rd 2022 at ECP Annual Meeting 2022
