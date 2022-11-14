@@ -68,6 +68,7 @@ Technology Stack
 
 ### 2022
 
+- [**An Automated Approach to Continuous Acceptance Testing of HPC Systems at NERSC**](https://drive.google.com/file/d/1BLJ0pfMBc3ZTitVIA6VGRDAZdI4gBBul/view) at [HPCSYSPRO22](https://sc22.supercomputing.org/session/?sess=sess463), Nov 14th 2022 
 - [**New User Training**](https://www.nersc.gov/users/training/events/new-user-training-sept2022/), Sep 28th 2022
 - [**E4S at NERSC 2022**](https://www.nersc.gov/users/training/events/e4s-at-nersc-2022/), Aug 25th 2022
 - [**MVAPICH2 at NERSC**](https://docs.google.com/presentation/d/1aYMbitopEGJcnxpbQpiSOcfZlfQgH3gJ/edit?rtpof=true), Aug 24th 2022 at [MVAPICH User Group Meeting 2022](http://mug.mvapich.cse.ohio-state.edu/program/), [*Video*](https://www.youtube.com/watch?v=IDdupGfF16g) 
