@@ -14,7 +14,6 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-    
     - name: Current year calendar
     - uses: lowlighter/metrics@latest
       with:
