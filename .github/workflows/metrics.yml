@@ -13,14 +13,6 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-    - name: Current year calendar
-      uses: lowlighter/metrics@latest
-      with:
-        filename: metrics.plugin.calendar.svg
-        token: ${{ secrets.METRICS_TOKEN }}
-        base: ""
-        plugin_calendar: yes
-
     - name: Using classic charts
       uses: lowlighter/metrics@latest
       with:
