@@ -15,7 +15,7 @@ jobs:
     
     steps:
     - name: Current year calendar
-    - uses: lowlighter/metrics@latest
+      uses: lowlighter/metrics@latest
       with:
         filename: metrics.plugin.calendar.svg
         token: ${{ secrets.METRICS_TOKEN }}
@@ -23,7 +23,7 @@ jobs:
         plugin_calendar: yes
 
     - name: Using classic charts
-    - uses: lowlighter/metrics@latest
+      uses: lowlighter/metrics@latest
       with:
         filename: metrics.plugin.stargazers.svg
         token: ${{ secrets.METRICS_TOKEN }}
@@ -31,7 +31,7 @@ jobs:
         plugin_stargazers: yes
 
     - name: Using chartist charts
-    - uses: lowlighter/metrics@latest
+      uses: lowlighter/metrics@latest
       with:
         filename: metrics.plugin.stargazers.chartist.svg
         token: ${{ secrets.METRICS_TOKEN }}
