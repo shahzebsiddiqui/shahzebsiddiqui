@@ -14,40 +14,8 @@ on:
 jobs:
   metrics:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
       
     steps:
-      - name: 🦑 General
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
-        with:
-          filename: general.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: header
-          base_indepth: yes
-          config_order: base.header, isocalendar, languages, notable, discussions, topics
-          plugin_isocalendar: yes
-          plugin_languages: yes          
-          plugin_languages_details: lines, bytes-size, percentage
-          plugin_languages_sections: most-used, recently-used
-          plugin_languages_indepth: yes
-          plugin_languages_limit: 2
-          plugin_topics: yes
-          plugin_topics_limit: 0
-          plugin_topics_mode: icons
-          plugin_notable: yes
-          plugin_discussions: yes
-          
-      - name: Languages
-        uses: lowlighter/metrics@latest
-        with:
-          filename: languages.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          plugin_languages: yes
-          plugin_languages_indepth: yes
-          commits_authoring: firstname lastname, username, username@users.noreply.github.com
-
       - name: Current year calendar
         uses: lowlighter/metrics@latest
         with:
@@ -55,20 +23,3 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_calendar: yes
-
-      - name: Using classic charts
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.stargazers.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_stargazers: yes
-
-      - name: Using chartist charts
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.stargazers.chartist.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_stargazers: yes
-          plugin_stargazers_charts_type: chartist  
