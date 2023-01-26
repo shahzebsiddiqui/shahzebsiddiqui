@@ -11,8 +11,28 @@ on:
 jobs:
   metrics:
     runs-on: ubuntu-latest
-    
+    permissions:
+      contents: write
+      
     steps:
+
+    - name: Languages
+      uses: lowlighter/metrics@latest
+      with:
+        filename: languages.svg
+        token: ${{ secrets.METRICS_TOKEN }}
+        plugin_languages: yes
+        plugin_languages_indepth: yes
+        commits_authoring: firstname lastname, username, username@users.noreply.github.com
+    
+    - name: Current year calendar
+      uses: lowlighter/metrics@latest
+      with:
+        filename: metrics.plugin.calendar.svg
+        token: ${{ secrets.METRICS_TOKEN }}
+        base: ""
+        plugin_calendar: yes
+
     - name: Using classic charts
       uses: lowlighter/metrics@latest
       with:
