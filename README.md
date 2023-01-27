@@ -3,8 +3,9 @@
 
 ![Metrics](https://metrics.lecoq.io/shahzebsiddiqui)
 
-<img align="center" src="metrics/calendar.svg" alt="Metrics" width="1600">
-<img align="center" src="metrics/isocalendar.svg" alt="Metrics" width="1600">
+<img align="left" src="metrics/calendar.svg" alt="Metrics" width="400">
+<img align="right" src="metrics/isocalendar.svg" alt="Metrics" width="400">
+<img align="left" src="metrics/habits.svg" alt="Metrics" width="400">
 
 
 [![shahzebsiddiqui's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahzebsiddiqui&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahzebsiddiqui&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
