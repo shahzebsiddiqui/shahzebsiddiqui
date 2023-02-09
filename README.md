@@ -79,13 +79,17 @@ Technology Stack
 
 ## Conferences
 
-### 2022
+### 2023
 
+- **[Facility Testing of E4S at NERSC]**(https://docs.google.com/presentation/d/1r_uXKvjpz84s5TmkDczfBep8DXNP2vEs/edit) at [ECP Community BoF 2023](https://www.exascaleproject.org/event/2023-ecp-community-bof-days/) on Enhancing Confidence in a Software Ecosystem through Complimentary Layers of Software Testing, Feb 15th 2023
+- [**E4S at OLCF, ALCF, and NERSC**](https://docs.google.com/presentation/d/1wbZsNx6LQvPfZMc7abB_hbZm8A95c3oa/edit?usp=sharing&ouid=102126664227037583807&rtpof=true&sd=true) at [ECP Community BoF 2023](https://www.exascaleproject.org/event/2023-ecp-community-bof-days/), Feb 14th 2023 
+- [**Automated Acceptance Testing in HPC with buildtest**](https://drive.google.com/file/d/1CnPH3Ct_YF8H7bLHx0X84TMf3mu_HKBz/view?usp=share_link) at ECP Project Tutorial 2023, Feb 7th 2023 
+### 2022
 - [**An Automated Approach to Continuous Acceptance Testing of HPC Systems at NERSC**](https://drive.google.com/file/d/1BLJ0pfMBc3ZTitVIA6VGRDAZdI4gBBul/view) at [HPCSYSPRO22](https://sc22.supercomputing.org/session/?sess=sess463), Nov 14th 2022 
 - [**New User Training**](https://www.nersc.gov/users/training/events/new-user-training-sept2022/), Sep 28th 2022
 - [**E4S at NERSC 2022**](https://www.nersc.gov/users/training/events/e4s-at-nersc-2022/), Aug 25th 2022
 - [**MVAPICH2 at NERSC**](https://docs.google.com/presentation/d/1aYMbitopEGJcnxpbQpiSOcfZlfQgH3gJ/edit?rtpof=true), Aug 24th 2022 at [MVAPICH User Group Meeting 2022](http://mug.mvapich.cse.ohio-state.edu/program/), [*Video*](https://www.youtube.com/watch?v=IDdupGfF16g) 
-- [**Facility Deployment of E4S at ALCF, OLCF, and NERSC**](https://whova.com/portal/webapp/ecpan_202205/Agenda/2237025), May 3rd 2022 at ECP Annual Meeting 2022
+- [**Facility Deployment of E4S at ALCF, OLCF, and NERSC**](https://drive.google.com/file/d/1FBdN3AuEaJr3J0j_ZMZR3agTmk9jeIJU/view?usp=share_link), May 3rd 2022 at ECP Annual Meeting 2022
 - [**Spack Infrastructure at NERSC**](https://docs.google.com/presentation/d/1nKEvgwCh4i8c3l9i_35BLv9NnRl4tsRw/edit?usp=sharing&ouid=102126664227037583807&rtpof=true&sd=true), April 5th 2022 at [SEA Improving Scientific Software Conference 2022](https://sea.ucar.edu/conference/2022)
 
 ### 2021
@@ -93,7 +97,7 @@ Technology Stack
 - [**Lmod User Training**](https://www.nersc.gov/users/training/events/lmod-user-training/), June 22 2021
 - [**HPC System Test: Building a cross-center collaboration for system testing**](https://github.com/olcf/hpc-system-test-wg/blob/master/events/cug2021bof.md), May 6th 2021 at Cray User Group 2021 BOF
 - [**HPC System and Software testing via buildtest**](https://drive.google.com/file/d/134bZIWyp0AL60I1bW4oWywCYW0oV8ckB/view?usp=sharing) at [ECP Annual Meeting 2021](https://whova.com/portal/webapp/ecpan_202104/Agenda/1511107), April 15th 2021
-- **Spack E4S Facility Pipeline Update** at [ECP Annual Meeting 2021](https://whova.com/portal/webapp/ecpan_202104/Agenda/1511089), April 14th 2021
+- [**Spack E4S Facility Pipeline Update**](https://docs.google.com/presentation/d/1VBIoHyQnvRkU7SQPLzzFuigt4FcarCfC/edit?usp=sharing&ouid=102126664227037583807&rtpof=true&sd=true) at [ECP Annual Meeting 2021](https://whova.com/portal/webapp/ecpan_202104/Agenda/1511089), April 14th 2021
 - **Acceptance Test with Buildtest for Cori System** at [High Performance Computing Benchmarking and Optimization (HPBench20)](http://hpcs2020.cisedu.info/4-program), Mar 27th 2021
 - **Acceptance Test with buildtest and Cori Testsuite** at [SEA's Improving Scientific Software Conference and Tutorials 2021](https://sea.ucar.edu/conference/2021), Mar 23rd 2021
 - Panel moderator for [Benchmarking in the Data Center: Expanding to the Cloud](https://parallel.computer/index.html) at [Principles and Practice of Parallel Programming (PPoPP) 2021](https://ppopp21.sigplan.org/), Feb 28th 2021
