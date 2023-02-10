@@ -83,7 +83,7 @@ Technology Stack
 
 - [**Facility Testing of E4S at NERSC**](https://docs.google.com/presentation/d/1r_uXKvjpz84s5TmkDczfBep8DXNP2vEs/edit) at [ECP Community BoF 2023](https://www.exascaleproject.org/event/2023-ecp-community-bof-days/) on Enhancing Confidence in a Software Ecosystem through Complimentary Layers of Software Testing, Feb 15th 2023
 - [**E4S at OLCF, ALCF, and NERSC**](https://docs.google.com/presentation/d/1wbZsNx6LQvPfZMc7abB_hbZm8A95c3oa/edit?usp=sharing&ouid=102126664227037583807&rtpof=true&sd=true) at [ECP Community BoF 2023](https://www.exascaleproject.org/event/2023-ecp-community-bof-days/), Feb 14th 2023 
-- [**Automated Acceptance Testing in HPC with buildtest**](https://drive.google.com/file/d/1CnPH3Ct_YF8H7bLHx0X84TMf3mu_HKBz/view?usp=share_link) at ECP Project Tutorial 2023, Feb 7th 2023 
+- [**Automated Acceptance Testing in HPC with buildtest**](https://drive.google.com/file/d/1CnPH3Ct_YF8H7bLHx0X84TMf3mu_HKBz/view?usp=share_link) at ECP Project Tutorial 2023, Feb 7th 2023, [Video](https://youtu.be/YxOm6aiDy3E) 
 ### 2022
 - [**An Automated Approach to Continuous Acceptance Testing of HPC Systems at NERSC**](https://drive.google.com/file/d/1BLJ0pfMBc3ZTitVIA6VGRDAZdI4gBBul/view) at [HPCSYSPRO22](https://sc22.supercomputing.org/session/?sess=sess463), Nov 14th 2022 
 - [**New User Training**](https://www.nersc.gov/users/training/events/new-user-training-sept2022/), Sep 28th 2022
