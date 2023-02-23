@@ -1,11 +1,10 @@
 # Shahzeb Siddiqui
 
-<img align="left" src="metrics/languages.svg" alt="Metrics" width="300">
-<img align="center" src="metrics/isocalendar.svg" alt="Metrics" width="400">
-<img align="right" src="metrics/calendar.svg" alt="Metrics" width="300">
+<p align="center">
+  <img  src="metrics/languages.svg" alt="Metrics" width="400">
+</p>
 
-<img align="left" src="metrics/habits.svg" alt="Metrics" width="300">
-<img align="right" src="metrics/repositories.pinned.svg" alt="Metrics" width="400">
+# Bio
 
 Shahzeb Siddiqui is a HPC Consultant/Software Integration Specialist at [Lawrence Berkeley National Laboratory](https://www.lbl.gov/) at [NERSC](http://nersc.gov/). He is part of [**User Engagement Team**](https://www.nersc.gov/about/nersc-staff/user-engagement/) that is responsible for engaging with NERSC user community through user support tickets, user outreach, training, documentation. Shahzeb is part of the [Exascale Computing Project](https://www.exascaleproject.org/)(ECP) in [Software Deployment](https://www.exascaleproject.org/research-group/software-deployment-at-the-facilities/) (SD) group
 where he is responsible for building Spack [Extreme-Scale Scientific Software Stack (E4S)](https://e4s-project.github.io/) at the DOE facilities.
@@ -14,9 +13,15 @@ Shahzeb is the creator of [buildtest](https://github.com/buildtesters/buildtest)
 
 Shahzeb created slurm utility called [jobstats](https://github.com/shahzebsiddiqui/jobstats) which is a wrapper to `sacct` and `sreport` to show slurm job details. 
 
-# Active Projects
+<div align="center">
+  <img align="left" src="metrics/isocalendar.svg" alt="Metrics" width="400">
+  <img align="center" src="metrics/calendar.svg" alt="Metrics" width="300">  
+</div>
 
-Shahzeb actively contributes to the following projects
+<div>
+<img align="left" src="metrics/habits.svg" alt="Metrics" width="300"> 
+</div>
+
 
 [![buildtest](https://github-readme-stats.vercel.app/api/pin/?username=shahzebsiddiqui&repo=buildtest)](https://github.com/buildtesters/buildtest) 
 [![spack-infrastructure](https://github-readme-stats.vercel.app/api/pin/?username=shahzebsiddiqui&repo=spack-infrastructure)](https://github.com/NERSC/spack-infrastructure)
@@ -27,6 +32,7 @@ Shahzeb actively contributes to the following projects
 [![e4s](https://github-readme-stats.vercel.app/api/pin/?username=shahzebsiddiqui&repo=e4s)](https://github.com/E4S-Project/e4s)
 [![jobstats](https://github-readme-stats.vercel.app/api/pin/?username=shahzebsiddiqui&repo=jobstats)](https://github.com/shahzebsiddiqui/jobstats)
 
+# Experience
 
 Shahzeb has experience installing and managing large software stack, cluster manager ([Bright Cluster Manager](https://www.nvidia.com/en-us/data-center/bright-cluster-manager/), [Cobbler](https://cobbler.github.io/)), configuration management ([Ansible](https://www.ansible.com/)), GPFS,
 [Slurm](https://slurm.schedmd.com/documentation.html) and LSF. Shahzeb is an experienced Developer, Dev-Ops, System Administrator and often involved in open-source projects.
@@ -39,8 +45,7 @@ Prior to 2012, he was a software engineer holding multiple roles at Global Scien
 
 ORCID: https://orcid.org/0000-0002-2342-6974
 
-Education
----------
+# Education
 
 - M.S Computer Science at [KAUST](https://www.kaust.edu.sa/en) (08/2012 - 12/2013)
 - B.S Computer Engineer at [Penn State University](https://www.psu.edu/) (08/2008 - 05/2011)
