@@ -1,7 +1,7 @@
 # Shahzeb Siddiqui
 
-<p align="center">
-  <img  src="metrics/languages.svg" alt="Metrics" width="400">
+<p align="left">
+  <img src="metrics/languages.svg" alt="Metrics" width="400">
 </p>
 
 # Bio
@@ -18,13 +18,10 @@ Shahzeb created slurm utility called [jobstats](https://github.com/shahzebsiddiq
   <img align="center" src="metrics/calendar.svg" alt="Metrics" width="300">  
 </div>
 
-<div>
-<img align="left" src="metrics/habits.svg" alt="Metrics" width="300"> 
-</div>
+<img align="left" src="metrics/habits.svg" alt="Metrics" width="350"> 
 
-<img align="left" src="metrics/buildtest_repository.svg" alt="Metrics" width="300">
-<img align="left" src="metrics/plugin.activity.svg" alt="Metrics" width="300">
-
+<img align="right" src="metrics/buildtest_repository.svg" alt="Metrics" width="350">
+<img align="center" src="metrics/plugin.activity.svg" alt="Metrics">
 
 [![buildtest](https://github-readme-stats.vercel.app/api/pin/?username=shahzebsiddiqui&repo=buildtest)](https://github.com/buildtesters/buildtest) 
 [![spack-infrastructure](https://github-readme-stats.vercel.app/api/pin/?username=shahzebsiddiqui&repo=spack-infrastructure)](https://github.com/NERSC/spack-infrastructure)
