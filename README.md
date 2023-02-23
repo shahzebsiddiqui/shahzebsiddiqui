@@ -22,6 +22,9 @@ Shahzeb created slurm utility called [jobstats](https://github.com/shahzebsiddiq
 <img align="left" src="metrics/habits.svg" alt="Metrics" width="300"> 
 </div>
 
+<img align="left" src="metrics/buildtest_repository.svg" alt="Metrics" width="300">
+<img align="left" src="metrics/plugin.activity.svg" alt="Metrics" width="300">
+
 
 [![buildtest](https://github-readme-stats.vercel.app/api/pin/?username=shahzebsiddiqui&repo=buildtest)](https://github.com/buildtesters/buildtest) 
 [![spack-infrastructure](https://github-readme-stats.vercel.app/api/pin/?username=shahzebsiddiqui&repo=spack-infrastructure)](https://github.com/NERSC/spack-infrastructure)
