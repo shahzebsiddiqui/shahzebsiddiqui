@@ -1,24 +1,16 @@
 # Shahzeb Siddiqui
 
-
-![Metrics](https://metrics.lecoq.io/shahzebsiddiqui)
-
-<img align="left" src="metrics/calendar.svg" alt="Metrics" width="400">
+<img align="left" src="metrics/languages.svg" alt="Metrics" width="300">
 <img align="center" src="metrics/isocalendar.svg" alt="Metrics" width="400">
-<img align="right" src="metrics/habits.svg" alt="Metrics" width="400">
-<img align="left" src="metrics/languages.svg" alt="Metrics" width="400">
-<img align="center" src="metrics/stargazers.svg" alt="Metrics" width="400">
-<img align="right" src="metrics/stargazers.chartist.svg" alt="Metrics" width="400">
-<img align="left" src="metrics/traffic.svg" alt="Metrics" width="400">
+<img align="right" src="metrics/calendar.svg" alt="Metrics" width="300">
+
+<img align="left" src="metrics/habits.svg" alt="Metrics" width="300">
 <img align="right" src="metrics/repositories.pinned.svg" alt="Metrics" width="400">
-
-
-[![shahzebsiddiqui's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahzebsiddiqui&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahzebsiddiqui&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Shahzeb Siddiqui is a HPC Consultant/Software Integration Specialist at [Lawrence Berkeley National Laboratory](https://www.lbl.gov/) at [NERSC](http://nersc.gov/). He is part of [**User Engagement Team**](https://www.nersc.gov/about/nersc-staff/user-engagement/) that is responsible for engaging with NERSC user community through user support tickets, user outreach, training, documentation. Shahzeb is part of the [Exascale Computing Project](https://www.exascaleproject.org/)(ECP) in [Software Deployment](https://www.exascaleproject.org/research-group/software-deployment-at-the-facilities/) (SD) group
 where he is responsible for building Spack [Extreme-Scale Scientific Software Stack (E4S)](https://e4s-project.github.io/) at the DOE facilities.
 
-Shahzeb is the creator of [buildtest](https://github.com/buildtesters/buildtest) an HPC testing framework to automate build and execution of tests. [lmodule](https://github.com/buildtesters/lmodule) is a Python API for module system, this was created from the buildtest project and it is a standalone API that can be used for testing modules. 
+Shahzeb is the creator of [buildtest](https://github.com/buildtesters/buildtest) an HPC testing framework to automate build and execution of tests. Shahzed created [lmodule](https://github.com/buildtesters/lmodule), a Python API for module system which is a spin-off from buildtest project and it is a standalone API that can be used for testing modules. 
 
 Shahzeb created slurm utility called [jobstats](https://github.com/shahzebsiddiqui/jobstats) which is a wrapper to `sacct` and `sreport` to show slurm job details. 
 
@@ -27,20 +19,20 @@ Shahzeb created slurm utility called [jobstats](https://github.com/shahzebsiddiq
 Shahzeb actively contributes to the following projects
 
 [![buildtest](https://github-readme-stats.vercel.app/api/pin/?username=shahzebsiddiqui&repo=buildtest)](https://github.com/buildtesters/buildtest) 
-[![lmodule](https://github-readme-stats.vercel.app/api/pin/?username=shahzebsiddiqui&repo=lmodule)](https://github.com/buildtesters/lmodule)
+[![spack-infrastructure](https://github-readme-stats.vercel.app/api/pin/?username=shahzebsiddiqui&repo=spack-infrastructure)](https://github.com/NERSC/spack-infrastructure)
 [![spack](https://github-readme-stats.vercel.app/api/pin/?username=shahzebsiddiqui&repo=spack)](https://github.com/spack/spack)
+[![lmodule](https://github-readme-stats.vercel.app/api/pin/?username=shahzebsiddiqui&repo=lmodule)](https://github.com/buildtesters/lmodule)
 [![spack-configs](https://github-readme-stats.vercel.app/api/pin/?username=shahzebsiddiqui&repo=spack-configs)](https://github.com/spack/spack-configs)
 [![easybuild](https://github-readme-stats.vercel.app/api/pin/?username=shahzebsiddiqui&repo=easybuild-easyconfigs)](https://github.com/easybuilders/easybuild-easyconfigs)
 [![e4s](https://github-readme-stats.vercel.app/api/pin/?username=shahzebsiddiqui&repo=e4s)](https://github.com/E4S-Project/e4s)
 [![jobstats](https://github-readme-stats.vercel.app/api/pin/?username=shahzebsiddiqui&repo=jobstats)](https://github.com/shahzebsiddiqui/jobstats)
-[![spack-infrastructure](https://github-readme-stats.vercel.app/api/pin/?username=shahzebsiddiqui&repo=spack-infrastructure)](https://github.com/NERSC/spack-infrastructure)
 
 
-Shahzeb has experience installing and managing large software stack, cluster manager (Bright Cluster Manager, Cobbler), configuration management (Ansible), GPFS,
-Slurm and LSF. Shahzeb is an experienced Developer, Dev-Ops, System Administrator and often involved in open-source projects.
+Shahzeb has experience installing and managing large software stack, cluster manager ([Bright Cluster Manager](https://www.nvidia.com/en-us/data-center/bright-cluster-manager/), [Cobbler](https://cobbler.github.io/)), configuration management ([Ansible](https://www.ansible.com/)), GPFS,
+[Slurm](https://slurm.schedmd.com/documentation.html) and LSF. Shahzeb is an experienced Developer, Dev-Ops, System Administrator and often involved in open-source projects.
 
 Shahzeb Siddiqui started out his career in High Performance Computing (HPC) in 2012 at [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en)
-while pursuing his Masters. His focus in HPC includes Parallel Programming, Performance Tuning, Containers (Singularity, Docker),
+while pursuing his Masters. His focus in HPC includes Parallel Programming, Performance Tuning, Containers ([Singularity](https://apptainer.org/user-docs/master/index.html#), [Docker](https://www.docker.com/)),
 Linux system administration, Scientific Software Installation and testing, Scheduler Optimization, and Job Metrics.
 Shahzeb has held multiple roles in his HPC career in the following companies: Dassault-Systemes, Pfizer, Penn State, and IBM.
 Prior to 2012, he was a software engineer holding multiple roles at Global Science & Technology, Northrop Grumman, and Penn State.
