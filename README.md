@@ -93,6 +93,8 @@ Technology Stack
 
 ### 2021
 
+- [**Facility Testing of E$S via E4S Testsuite, Spack Test, and buildtest**](https://www.nersc.gov/users/training/events/facility-testing-of-e4s-via-e4s-testsuite-spack-test-and-buildtest/), Sep 14th 2021. See [Talk](https://www.nersc.gov/assets/Uploads/facility-testing-e4s-spack-buildtest.pdf)
+- [**E4S at DOE Facilities with Deep Dive at NERSC**](https://www.nersc.gov/users/training/events/e4s-at-doe-facilities-with-deep-dive-at-nersc-oct-4-2021/), Oct 4th 2021
 - [**Lmod User Training**](https://www.nersc.gov/users/training/events/lmod-user-training/), June 22 2021
 - [**HPC System Test: Building a cross-center collaboration for system testing**](https://github.com/olcf/hpc-system-test-wg/blob/master/events/cug2021bof.md), May 6th 2021 at Cray User Group 2021 BOF
 - [**HPC System and Software testing via buildtest**](https://drive.google.com/file/d/134bZIWyp0AL60I1bW4oWywCYW0oV8ckB/view?usp=sharing) at [ECP Annual Meeting 2021](https://whova.com/portal/webapp/ecpan_202104/Agenda/1511107), April 15th 2021
