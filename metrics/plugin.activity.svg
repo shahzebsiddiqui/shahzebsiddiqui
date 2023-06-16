@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="950" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1054" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.added{color:#3fb950}.deleted{color:#da3633}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -19,14 +19,31 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Opened
+                                        <span class="issue">#11 move all meetings to folder 'Meetings</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">LeadershipScientificSoftware/LeadershipScientificSoftware.github.io</span></div>
+                                    <div>15 files changed <span class="code">++35 --35</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Deleted
+                                        Created new
                       branch
-                                        <span class="code">buildtest_profiles</span>
+                                        <span class="code">move_meetings_in_folder</span>
                                         in
-                                        <span class="repo">buildtesters/buildtest</span>
+                                        <span class="repo">shahzebsiddiqui/LeadershipScientificSoftware.github.io</span>
                                     </div>
                                 </div>
                             </section>
@@ -35,108 +52,16 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 23 commits in
-                                        <span class="repo">buildtesters/buildtest</span>
+                                        Commented on
+                                        <span class="issue">#10 Rename Contribute.md to CONTRIBUTING.md</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">devel</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0212355</div>
-                                        <div class="message">fix issue with documentation and rename profile</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#07c2d76</div>
-                                        <div class="message">add entry in 'buildtest help build' for --save-profile and --profile</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#250a387</div>
-                                        <div class="message">add documentation on managing profiles in configuring buildtest.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#de4b6b0</div>
-                                        <div class="message">fix issue with documentation</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2d60ae8</div>
-                                        <div class="message">remove uncommented lines
-update regression test to test for 'executor-type'.
-Also check when 'module-purge' is not passed as an option when saving profile configuration</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4120613</div>
-                                        <div class="message">add key 'executor-type' in profile configuration to store option value for '--executor-type'.
-
-Also check if --module-purge is passed then check if key is False if so we set to None so its not written in configuration file</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#af12751</div>
-                                        <div class="message">add support for filter in profile configuration. update json schema to allow filter
-by tags, maintainers and type.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6a65918</div>
-                                        <div class="message">change url in README.rst for issues page
-make minor changes to documentation</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1aaaa25</div>
-                                        <div class="message">fix issue with yamllint</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#16df4c2</div>
-                                        <div class="message">add documentation for managing profiles.
-copy the config.yml from devel branch since we accidently updated the content of default configuration file which removed the comments</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#41fdd15</div>
-                                        <div class="message">remove unnecessary checks if configuration file exist when saving a profile since this
-is handled earlier in codebase when invoking SiteConfiguration class.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f58cd91</div>
-                                        <div class="message">remove accidental addition of profile in buildtest configuration</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8fb7543</div>
-                                        <div class="message">add test coverage for saving profile and running test from a saved profile</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#06f8d65</div>
-                                        <div class="message">add implementation for '--profile'. We load the profile configuration and override the class variables.
-Add method in SiteConfiguration class called 'get_profile' which will retrieve the profile given the name of profile specified
-by --profile. If profile doesn't exist or no profiles are created we raise and exception.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7e603d5</div>
-                                        <div class="message">add option --profile and add to bash completion</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5bbe6fd</div>
-                                        <div class="message">add implementation to save profile into configuration file. Update jsonschema to ensure each property type matches the input type
-used in BuildTest class.
-
-For 'buildspecs' property we resolve the full path before adding to configuration file since we will need this inorder to know where buildspec is.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#648ec8c</div>
-                                        <div class="message">saving my work for initial implementation</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6fd1ca3</div>
-                                        <div class="message">add --save-profile to bash completion script</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b03239d</div>
-                                        <div class="message">add option buildtest build --save-profile</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7685685</div>
-                                        <div class="message">update schema to add support for 'profile' keyword</div>
-                                    </div>
+                                    <div>opened by shahzebsiddiqui in <span class="repo">LeadershipScientificSoftware/LeadershipScientificSoftware.github.io</span></div>
+                                    <div class="comment">@maherou i renamed the file its typically in all caps. See https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors</div>
                                 </div>
                             </section>
                         </div>
@@ -147,50 +72,13 @@ For 'buildspecs' property we resolve the full path before adding to configuratio
                                         <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Merged
-                                        <span class="issue">#1489 Add support for profiles</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div> in <span class="repo">buildtesters/buildtest</span></div>
-                                    <div>14 files changed <span class="code">++402 --34</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">buildtesters/buildtest</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">buildtest_profiles</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a86f14d</div>
-                                        <div class="message">remove 2nd example for saving profile from documentation</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
-                                    </svg>
-                                    <div class="content">
                                         Opened
-                                        <span class="issue">#1494 [FEATURE]: specify alternate location where to write configuration file</span>
+                                        <span class="issue">#10 Rename Contribute.md to CONTRIBUTING.md</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened  in <span class="repo">buildtesters/buildtest</span></div>
+                                    <div> in <span class="repo">LeadershipScientificSoftware/LeadershipScientificSoftware.github.io</span></div>
+                                    <div>1 file changed <span class="code">++0 --0</span></div>
                                 </div>
                             </section>
                         </div>
@@ -202,14 +90,14 @@ For 'buildspecs' property we resolve the full path before adding to configuratio
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">buildtesters/buildtest</span>
+                                        <span class="repo">shahzebsiddiqui/LeadershipScientificSoftware.github.io</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">buildtest_profiles</span></div>
+                                    <div>on branch <span class="code">patch-1</span></div>
                                     <div class="commit">
-                                        <div class="sha">#33d9f7b</div>
-                                        <div class="message">revert changes for default config.yml</div>
+                                        <div class="sha">#23db0e6</div>
+                                        <div class="message">Rename Contribute.md to CONTRIBUTING.md</div>
                                     </div>
                                 </div>
                             </section>
@@ -221,35 +109,102 @@ For 'buildspecs' property we resolve the full path before adding to configuratio
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">buildtesters/buildtest</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">buildtest_profiles</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0212355</div>
-                                        <div class="message">fix issue with documentation and rename profile</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">shahzebsiddiqui/shahzebsiddiqui</span>
+                                        Pushed 24 commits in
+                                        <span class="repo">NERSC/spack-infrastructure</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#cf04581</div>
-                                        <div class="message">add paper publication for SC22</div>
+                                        <div class="sha">#2703a69</div>
+                                        <div class="message">Update file spack.yaml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bac529c</div>
+                                        <div class="message">Merge branch 'main' into 'data'
+
+# Conflicts:
+#   .gitlab-ci.yml
+#   spack-configs/perlmutter-e4s-23.05/definitions.yaml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f9bcdf9</div>
+                                        <div class="message">Update file .gitlab-ci.yml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e0c0f07</div>
+                                        <div class="message">Update spack.yaml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#02a357f</div>
+                                        <div class="message">Update spack.yaml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eb48c27</div>
+                                        <div class="message">Update spack.yaml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cdeb302</div>
+                                        <div class="message">Update spack.yaml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6057de7</div>
+                                        <div class="message">Update spack.yaml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b34d1d9</div>
+                                        <div class="message">Update spack.yaml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ac7da49</div>
+                                        <div class="message">Update .gitlab-ci.yml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e9a1606</div>
+                                        <div class="message">Update file .gitlab-ci.yml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ccbf3c3</div>
+                                        <div class="message">Update file .gitlab-ci.yml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d6cc904</div>
+                                        <div class="message">Merge branch 'main' into 'data'
+
+# Conflicts:
+#   .gitlab-ci.yml
+#   spack-configs/perlmutter-e4s-23.05/definitions.yaml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a178eaf</div>
+                                        <div class="message">Update 2 files
+
+- /spack-configs/perlmutter-e4s-23.05/data/spack.yaml
+- /.gitlab-ci.yml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6ad5a6a</div>
+                                        <div class="message">gitkeep deleted</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#11d64d6</div>
+                                        <div class="message">update spack.yaml gcc compiler is added</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1400638</div>
+                                        <div class="message">Update spack-configs/perlmutter-e4s-23.05/definitions.yaml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9658a10</div>
+                                        <div class="message">Add new file</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1bfa4f2</div>
+                                        <div class="message">Update spack-configs/perlmutter-e4s-23.05/definitions.yaml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4e8c2f3</div>
+                                        <div class="message">Add new directory</div>
                                     </div>
                                 </div>
                             </section>
@@ -261,15 +216,19 @@ For 'buildspecs' property we resolve the full path before adding to configuratio
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">shahzebsiddiqui/shahzebsiddiqui</span>
+                                        Pushed 6 commits in
+                                        <span class="repo">NERSC/spack-infrastructure</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2c46b95</div>
-                                        <div class="message">add talks for SC22 and SC21 for DOE booth</div>
+                                        <div class="sha">#1f8cbd1</div>
+                                        <div class="message">Merge branch 'mendi03-main-patch-34884' into 'main'
+
+nvhpc 23.05 with merge conflicts resolved
+
+See merge request NERSC/spack-infrastructure!81</div>
                                     </div>
                                 </div>
                             </section>
@@ -281,15 +240,64 @@ For 'buildspecs' property we resolve the full path before adding to configuratio
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">shahzebsiddiqui/shahzebsiddiqui</span>
+                                        Pushed 6 commits in
+                                        <span class="repo">NERSC/spack-infrastructure</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8d2addc</div>
-                                        <div class="message">add PEARC22 talk</div>
+                                        <div class="sha">#b32a8d8</div>
+                                        <div class="message">Merge branch 'majibade-main-patch-22776' into 'main'
+
+gcc-cuda
+
+See merge request NERSC/spack-infrastructure!79</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#1448 Add coverage for method regex_check</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by prathmesh4321 in <span class="repo">buildtesters/buildtest</span></div>
+                                    <div class="comment">
+                                        <b>TODO</b>
+                                        Add method in https://github.com/buildtesters/buildtest/blob/devel/tests/builders/test_builders.py to test
+                                        <code>regex_check</code>
+                                        Use this test https://github.com/buildtesters/buildtest/blob/devel/tutorials/test_status/status_regex.yml for your regression test. Please create a symbolic link to this file in  https://github.com/buildtesters/buildtest/blob/devel/tests/builders/
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#1447 Add coverage for file_regex status check</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by prathmesh4321 in <span class="repo">buildtesters/buildtest</span></div>
+                                    <div class="comment">
+                                        this is the test for
+                                        <code>file_regex</code>
+                                        that we should use for the regression test. Simply create a symbolic link https://github.com/buildtesters/buildtest/blob/devel/tutorials/test_status/regex_on_filename.yml. The symlink are created for other files in the root of the directory https://github.com/buildtesters/buildtest/tree/devel/tests/builders for buildspecs that point to ones in the
+                                        <code>tutorials</code>
+                                        directory.
                                     </div>
                                 </div>
                             </section>
