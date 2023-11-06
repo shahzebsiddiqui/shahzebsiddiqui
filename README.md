@@ -1,36 +1,15 @@
 # Shahzeb Siddiqui
 
-<p align="left">
-  <img src="metrics/languages.svg" alt="Metrics" width="400">
-</p>
+- [Resume](https://drive.google.com/file/d/1AXUlOPISA64tBYI3IInpcNtlK6iteE5L/view?usp=sharing)
+- LinkedIn: https://www.linkedin.com/in/shahzebmsiddiqui/
 
 # Bio
 
-Shahzeb Siddiqui is a HPC Consultant/Software Integration Specialist at [Lawrence Berkeley National Laboratory](https://www.lbl.gov/) at [NERSC](http://nersc.gov/). He is part of [**User Engagement Team**](https://www.nersc.gov/about/nersc-staff/user-engagement/) that is responsible for engaging with NERSC user community through user support tickets, user outreach, training, documentation. Shahzeb is part of the [Exascale Computing Project](https://www.exascaleproject.org/)(ECP) in [Software Deployment](https://www.exascaleproject.org/research-group/software-deployment-at-the-facilities/) (SD) group
-where he is responsible for building Spack [Extreme-Scale Scientific Software Stack (E4S)](https://e4s-project.github.io/) at the DOE facilities.
+Shahzeb Siddiqui is a **HPC Consultant/Software Integration Specialist** at [Lawrence Berkeley National Laboratory](https://www.lbl.gov/) at [NERSC](http://nersc.gov/). He is part of [**Programming Environments and Models**](https://www.nersc.gov/about/nersc-staff/programming-environments-and-models/) which is responsible for development of HPC programming models and software runtimes that enable current and future science on NERSC system. Shahzeb is responsible for engaging with NERSC user community through user support tickets, user outreach, training, documentation. Shahzeb is part of the [Exascale Computing Project](https://www.exascaleproject.org/)(ECP) in [Software Deployment](https://www.exascaleproject.org/research-group/software-deployment-at-the-facilities/) (SD) group where he is responsible for building Spack [Extreme-Scale Scientific Software Stack (E4S)](https://e4s-project.github.io/) at the DOE facilities.
 
-Shahzeb is the creator of [buildtest](https://github.com/buildtesters/buildtest) an HPC testing framework to automate build and execution of tests. Shahzed created [lmodule](https://github.com/buildtesters/lmodule), a Python API for module system which is a spin-off from buildtest project and it is a standalone API that can be used for testing modules. 
+Shahzeb is the creator of [buildtest](https://github.com/buildtesters/buildtest) an HPC testing framework to automate build and execution of tests. He also created [lmodule](https://github.com/buildtesters/lmodule), a Python API for module system which is a spin-off from buildtest project and it is a standalone API that can be used for testing modules. 
 
 Shahzeb created slurm utility called [jobstats](https://github.com/shahzebsiddiqui/jobstats) which is a wrapper to `sacct` and `sreport` to show slurm job details. 
-
-<div align="center">
-  <img align="left" src="metrics/isocalendar.svg" alt="Metrics" width="400">
-  <img align="center" src="metrics/calendar.svg" alt="Metrics" width="300">  
-</div>
-
-<img align="left" src="metrics/habits.svg" alt="Metrics" width="350"> 
-
-<img align="right" src="metrics/buildtest_repository.svg" alt="Metrics" width="350">
-<img align="center" src="metrics/plugin.activity.svg" alt="Metrics">
-
-[![buildtest](https://github-readme-stats.vercel.app/api/pin/?username=shahzebsiddiqui&repo=buildtest)](https://github.com/buildtesters/buildtest) 
-[![spack-infrastructure](https://github-readme-stats.vercel.app/api/pin/?username=shahzebsiddiqui&repo=spack-infrastructure)](https://github.com/NERSC/spack-infrastructure)
-[![spack](https://github-readme-stats.vercel.app/api/pin/?username=shahzebsiddiqui&repo=spack)](https://github.com/spack/spack)
-[![lmodule](https://github-readme-stats.vercel.app/api/pin/?username=shahzebsiddiqui&repo=lmodule)](https://github.com/buildtesters/lmodule)
-[![spack-configs](https://github-readme-stats.vercel.app/api/pin/?username=shahzebsiddiqui&repo=spack-configs)](https://github.com/spack/spack-configs)
-[![easybuild](https://github-readme-stats.vercel.app/api/pin/?username=shahzebsiddiqui&repo=easybuild-easyconfigs)](https://github.com/easybuilders/easybuild-easyconfigs)
-[![e4s](https://github-readme-stats.vercel.app/api/pin/?username=shahzebsiddiqui&repo=e4s)](https://github.com/E4S-Project/e4s)
-[![jobstats](https://github-readme-stats.vercel.app/api/pin/?username=shahzebsiddiqui&repo=jobstats)](https://github.com/shahzebsiddiqui/jobstats)
 
 # Experience
 
@@ -53,7 +32,38 @@ ORCID: https://orcid.org/0000-0002-2342-6974
 Certification
 --------------
 
+- [Certified Associate in Python Programming](https://verify.openedg.org/?id=vAax.aini.UUwe) 
 - Red Hat Certified System Administrator (RHCSA) -  Credential ID: [200-019-677](https://rhtapps.redhat.com/verify?certId=200-019-677)
+
+GitHub Stats
+-------------
+
+
+<p align="left">
+  <img src="metrics/languages.svg" alt="Metrics" width="400">
+</p>
+
+<div align="center">
+  <img align="left" src="metrics/isocalendar.svg" alt="Metrics" width="400">
+  <img align="center" src="metrics/calendar.svg" alt="Metrics" width="300">  
+</div>
+
+<img align="left" src="metrics/habits.svg" alt="Metrics" width="350"> 
+
+<img align="right" src="metrics/buildtest_repository.svg" alt="Metrics" width="350">
+<img align="center" src="metrics/plugin.activity.svg" alt="Metrics">
+
+Open Source Projects
+-----------------------
+
+[![buildtest](https://github-readme-stats.vercel.app/api/pin/?username=shahzebsiddiqui&repo=buildtest)](https://github.com/buildtesters/buildtest) 
+[![spack-infrastructure](https://github-readme-stats.vercel.app/api/pin/?username=shahzebsiddiqui&repo=spack-infrastructure)](https://github.com/NERSC/spack-infrastructure)
+[![spack](https://github-readme-stats.vercel.app/api/pin/?username=shahzebsiddiqui&repo=spack)](https://github.com/spack/spack)
+[![lmodule](https://github-readme-stats.vercel.app/api/pin/?username=shahzebsiddiqui&repo=lmodule)](https://github.com/buildtesters/lmodule)
+[![spack-configs](https://github-readme-stats.vercel.app/api/pin/?username=shahzebsiddiqui&repo=spack-configs)](https://github.com/spack/spack-configs)
+[![easybuild](https://github-readme-stats.vercel.app/api/pin/?username=shahzebsiddiqui&repo=easybuild-easyconfigs)](https://github.com/easybuilders/easybuild-easyconfigs)
+[![e4s](https://github-readme-stats.vercel.app/api/pin/?username=shahzebsiddiqui&repo=e4s)](https://github.com/E4S-Project/e4s)
+[![jobstats](https://github-readme-stats.vercel.app/api/pin/?username=shahzebsiddiqui&repo=jobstats)](https://github.com/shahzebsiddiqui/jobstats)
 
 Technology Stack
 -----------------
