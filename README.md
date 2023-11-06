@@ -77,6 +77,7 @@ Technology Stack
 ## Conferences
 
 ### 2023
+- [**Automated Software Testing of Spack/E4S with Buildtest**](https://docs.google.com/presentation/d/15xW4tA2eoMatMZs1cqX2fxhbuQB2bWdv/edit?usp=sharing&ouid=102126664227037583807&rtpof=true&sd=true) at [SC23](https://sc23.supercomputing.org/) in BoF *Software Testing for Scientific Computing in HPC*, Nov 15th 2023
 - [**Testing your HPC System with Buildtest**](https://drive.google.com/file/d/1SNI0JwCXjODSCVfGjKHX8Y_L5esCpiDq/view?usp=sharing) at [PEARC23](https://pearc.acm.org/pearc23/), July 24th 2023
 - [**Buildtest: A Framework for testing HPC systems**](https://drive.google.com/file/d/19UUHtwYVuLrXumR4mn7DI2UvAWNsVRBt/view) at [Improving Scientific Software Conference 2023](https://sea.ucar.edu/conference/2023), April 17-19th 2023. [*Video*](https://www.youtube.com/watch?v=ur4I6kip-nY&feature=youtu.be)
 - [**Lmodule - Python API for testing modules**](https://drive.google.com/file/d/1Ml19S5G39RbdlsAAYIbgxNkbI3wAEHvX/view?usp=share_link) at [Improving Scientific Software Conference 2023](https://sea.ucar.edu/conference/2023), April 17-19th 2023. [*Video*](https://www.youtube.com/watch?v=ur4I6kip-nY&feature=youtu.be)
