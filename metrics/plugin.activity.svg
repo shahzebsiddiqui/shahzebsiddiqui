@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="583" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="717" class="">
     <defs>
         <style/>
     </defs>
@@ -19,65 +19,12 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">buildtesters/buildtest</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">update_changelog</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2fa363f</div>
-                                        <div class="message">make formatting changes</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Opened
-                                        <span class="issue">#1658 update changelog for v1.7</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div> in <span class="repo">buildtesters/buildtest</span></div>
-                                    <div>1 file changed <span class="code">++39 --0</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">update_changelog</span>
-                                        in
-                                        <span class="repo">buildtesters/buildtest</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">update_docs_title_sections</span>
+                                        <span class="code">command_line_tutorial_ci_check</span>
                                         in
                                         <span class="repo">buildtesters/buildtest</span>
                                     </div>
@@ -91,25 +38,41 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 3 commits in
+                                        Pushed 7 commits in
                                         <span class="repo">buildtesters/buildtest</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">devel</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b45525d</div>
-                                        <div class="message">Merge pull request #1657 from buildtesters/update_docs_title_sections
+                                        <div class="sha">#e963aa4</div>
+                                        <div class="message">Merge pull request #1663 from buildtesters/command_line_tutorial_ci_check
 
-update title section for several pages</div>
+github workflow for command line tutorial check</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#1664a0e</div>
-                                        <div class="message">update title</div>
+                                        <div class="sha">#5816fb9</div>
+                                        <div class="message">typo in quotation marks</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#f10c8a8</div>
-                                        <div class="message">update title section for several pages to include command.</div>
+                                        <div class="sha">#6865f6d</div>
+                                        <div class="message">add quotes to avoid globbing reported by ci check</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#93a4a52</div>
+                                        <div class="message">add new line to fix yamllint issue</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3aae5ca</div>
+                                        <div class="message">specify path to cli.sh script to run script</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#289216f</div>
+                                        <div class="message">add script cli.sh to run the tutorial check</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#47db145</div>
+                                        <div class="message">add github workflow for validating command line tutorial</div>
                                     </div>
                                 </div>
                             </section>
@@ -122,12 +85,12 @@ update title section for several pages</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#1657 update title section for several pages</span>
+                                        <span class="issue">#1663 github workflow for command line tutorial check</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">buildtesters/buildtest</span></div>
-                                    <div>5 files changed <span class="code">++36 --43</span></div>
+                                    <div>2 files changed <span class="code">++89 --0</span></div>
                                 </div>
                             </section>
                         </div>
@@ -143,10 +106,90 @@ update title section for several pages</div>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">update_docs_title_sections</span></div>
+                                    <div>on branch <span class="code">command_line_tutorial_ci_check</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1664a0e</div>
-                                        <div class="message">update title</div>
+                                        <div class="sha">#5816fb9</div>
+                                        <div class="message">typo in quotation marks</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">buildtesters/buildtest</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">command_line_tutorial_ci_check</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#6865f6d</div>
+                                        <div class="message">add quotes to avoid globbing reported by ci check</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">buildtesters/buildtest</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">command_line_tutorial_ci_check</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#93a4a52</div>
+                                        <div class="message">add new line to fix yamllint issue</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">buildtesters/buildtest</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">command_line_tutorial_ci_check</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#3aae5ca</div>
+                                        <div class="message">specify path to cli.sh script to run script</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">buildtesters/buildtest</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">command_line_tutorial_ci_check</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#289216f</div>
+                                        <div class="message">add script cli.sh to run the tutorial check</div>
                                     </div>
                                 </div>
                             </section>
@@ -159,12 +202,12 @@ update title section for several pages</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#1657 update title section for several pages</span>
+                                        <span class="issue">#1663 github workflow for command line tutorial check</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">buildtesters/buildtest</span></div>
-                                    <div>4 files changed <span class="code">++34 --41</span></div>
+                                    <div>1 file changed <span class="code">++80 --0</span></div>
                                 </div>
                             </section>
                         </div>
@@ -177,23 +220,7 @@ update title section for several pages</div>
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">update_docs_title_sections</span>
-                                        in
-                                        <span class="repo">buildtesters/buildtest</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">status_mode</span>
+                                        <span class="code">command_line_tutorial_ci_check</span>
                                         in
                                         <span class="repo">buildtesters/buildtest</span>
                                     </div>
