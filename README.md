@@ -87,6 +87,7 @@ Technology Stack
 ## Conferences
 
 ### 2023
+
 - [**Automated Software Testing of Spack/E4S with Buildtest**](https://docs.google.com/presentation/d/15xW4tA2eoMatMZs1cqX2fxhbuQB2bWdv/edit?usp=sharing&ouid=102126664227037583807&rtpof=true&sd=true) at [SC23](https://sc23.supercomputing.org/) in BoF *Software Testing for Scientific Computing in HPC*, Nov 15th 2023
 - [**Testing your HPC System with Buildtest**](https://drive.google.com/file/d/1SNI0JwCXjODSCVfGjKHX8Y_L5esCpiDq/view?usp=sharing) at [PEARC23](https://pearc.acm.org/pearc23/), July 24th 2023
 - [**Buildtest: A Framework for testing HPC systems**](https://drive.google.com/file/d/19UUHtwYVuLrXumR4mn7DI2UvAWNsVRBt/view) at [Improving Scientific Software Conference 2023](https://sea.ucar.edu/conference/2023), April 17-19th 2023. [*Video*](https://www.youtube.com/watch?v=ur4I6kip-nY&feature=youtu.be)
@@ -135,6 +136,10 @@ Technology Stack
 - [**Buildtest: A Software Testing Framework with Module Operations for HPC systems**](https://sc19.supercomputing.org/presentation/?id=ws_hust103&sess=sess116) at SC'19 in [HPC User Support Tools Workshop](https://hust-workshop.github.io/), Nov 18, 2019
 - [**Software Stack Testing with buildtest**](https://hpckp.org/past-edition/hpckp-18/#software-stack-testing-with-buildtest) at [HPCKP'18](https://hpckp.org/past-edition/hpckp-18/), June 21-22, 2018
 - [**HPC Application Testing Framework - buildtest**](https://hpckp.org/wp-content/uploads/2020/05/11-HPCKP17-Shahzeb-Siddiqui.pdf) at  [HPCKP'17](https://hpckp.org/past-edition/hpckp-17/), June 15-16, 2017
+
+## Miscellaneous Talks
+
+- [**Our Journey in Automated Testing of E4S Software Stack via Buildtest**](https://docs.google.com/presentation/d/1esJX8clNomFW5j5vLUn2Obc49xxV1TWO/edit?usp=sharing&ouid=102126664227037583807&rtpof=true&sd=true), NERSC Seminar, Dec 20th 2023
 
 ## Publications
 
