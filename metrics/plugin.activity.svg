@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="700" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="667" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,116 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">buildtesters/buildtest</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">refactor_codebase</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9b47768</div>
+                                        <div class="message">add regression test for testing --count
+fix issue where --count=0 was not showing up the output correctly</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">buildtesters/buildtest</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">refactor_codebase</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#0cb8d98</div>
+                                        <div class="message">refactor inspect.py</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">buildtesters/buildtest</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">refactor_codebase</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ca24589</div>
+                                        <div class="message">remove capital letters such as Filter and Format in the argparse help message for some options</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">buildtesters/buildtest</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">refactor_codebase</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2b49e56</div>
+                                        <div class="message">rename argument call when calling Report class since kwargs argument must match the actual arguments for buildtest report command</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">buildtesters/buildtest</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">refactor_codebase</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#61caf4b</div>
+                                        <div class="message">refactor Report class and all of its helper methods.
+
+The Report class will now pass values as **kwargs and there is a method set_report_parameters
+that will assign instance variables passed on **kwargs.
+
+Make use of nested for loops and combining if statements together to help reduce lines of codes where possible</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6c4db37</div>
+                                        <div class="message">refactor implementation for 'buildtest history' command by creating a helper method create_history_table used for printing the table history</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -109,127 +219,6 @@ remove unused variables in method handle_executors_command</div>
                                         <div class="sha">#c086135</div>
                                         <div class="message">add __init__.py files in subdirectories for some tests
 fix bug in regression test for viewing executors</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">buildtesters/buildtest</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">refactor_codebase</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0e1e38b</div>
-                                        <div class="message">add options --pager, --no-header and --count for 'buildtest buildspec maintainers' command.
-add option --row-count for 'buildtest buildspec find invalid' to show count of invalid tests
-add implementation for these options
-
-Add bash completion support for new options</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">buildtesters/buildtest</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">refactor_codebase</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5c4ffb5</div>
-                                        <div class="message">move method edit_buildspec_test up next to edit_buildspec_file</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">buildtesters/buildtest</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">refactor_codebase</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#18654fc</div>
-                                        <div class="message">fix regression test method for testing invalid buildspecs. Some calls were not neccessary.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#18c038b</div>
-                                        <div class="message">refactor implementation for finding invalid buildspecs (buildtest buildspec find invalid) by using methods
-like create_table, print_table for printing.
-
-Add --pager and --row-count option to the command menu since implementation was present but option was not.
-fix bug in regression test where method name was not correct.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">buildtesters/buildtest</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">refactor_codebase</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4084c33</div>
-                                        <div class="message">refactor codebase for printing breakdown of buildspecs by maintainers ('buildtest buildspec maintainers --breakdown')</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">buildtesters/buildtest</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">refactor_codebase</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#93b47ed</div>
-                                        <div class="message">major refactor to buildspec.py file such as creating methods for printing and creating tables</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ce738a9</div>
-                                        <div class="message">change print statement in exception class
-remove 'compiler' from types list for schema table since 'compiler' is no longer supported</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8a6278a</div>
-                                        <div class="message">rename method name to 'buildspec_validate_command'</div>
                                     </div>
                                 </div>
                             </section>
