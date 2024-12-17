@@ -32,6 +32,7 @@ ORCID: https://orcid.org/0000-0002-2342-6974
 Certification
 --------------
 
+- [Linux Foundation Certified System Administrator (LFCS)](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/9868a0ff-6ddc-4838-9685-49be4986138b-shahzeb-mohammed-siddiqui-bab341e9-441d-4aea-b5e0-085e8b6f2ed5-certificate.pdf)
 - [Certified Associate in Python Programming](https://verify.openedg.org/?id=vAax.aini.UUwe) 
 - Red Hat Certified System Administrator (RHCSA) -  Credential ID: [200-019-677](https://rhtapps.redhat.com/verify?certId=200-019-677)
 
