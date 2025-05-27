@@ -1,17 +1,36 @@
 # Shahzeb Siddiqui
-
-- [Resume](https://drive.google.com/file/d/1AXUlOPISA64tBYI3IInpcNtlK6iteE5L/view?usp=sharing)
-- LinkedIn: https://www.linkedin.com/in/shahzebmsiddiqui/
-
-# Bio
-
-Shahzeb Siddiqui is a **HPC Programming Environment Engineer** at [Lawrence Berkeley National Laboratory](https://www.lbl.gov/) at [NERSC](http://nersc.gov/). He is part of [**Programming Environments and Models**](https://www.nersc.gov/about/nersc-staff/programming-environments-and-models/) which is responsible for development of HPC programming models and software runtimes that enable current and future science on NERSC system. Shahzeb is responsible for engaging with NERSC user community through user support tickets, user outreach, training, documentation. Shahzeb is a member of the [Software Deployment](https://www.exascaleproject.org/research-group/software-deployment-at-the-facilities/) (SD) group in [Exascale Computing Project](https://www.exascaleproject.org/) (ECP) where he is responsible for building and testing the Spack [Extreme-Scale Scientific Software Stack (E4S)](https://e4s-project.github.io/) at the DOE facilities.
+ ![Linkedin](https://i.sstatic.net/gVE0j.png) https://www.linkedin.com/in/shahzebmsiddiqui/
+ 
+Seasoned HPC Engineer with 14+ years of experience designing, deploying, and optimizing high-performance computing systems across academia, national labs, and industry. Seeking to contribute deep expertise in HPC infrastructure, scientific software ecosystems, and performance engineering to drive innovation and efficiency at scale.
 
 Shahzeb is the creator of [buildtest](https://github.com/buildtesters/buildtest) an HPC testing framework to automate build and execution of tests. He also created [lmodule](https://github.com/buildtesters/lmodule), a Python API for module system which is a spin-off from buildtest project and it is a standalone API that can be used for testing modules. 
 
 Shahzeb created slurm utility called [jobstats](https://github.com/shahzebsiddiqui/jobstats) which is a wrapper to `sacct` and `sreport` to show slurm job details. 
 
+Please refer to my [Resume](https://drive.google.com/file/d/1AXUlOPISA64tBYI3IInpcNtlK6iteE5L/view?usp=sharing](https://drive.google.com/drive/folders/153c6cfKLIIaTo7cbhwgZ_n6dKUN7FrvB)) if you are interested in reaching out to me for new job opportunities.
+
 # Experience
+
+-	Extensive HPC Expertise: Delivered robust HPC infrastructure and user support at national lab, corporations and academia.
+-	Software Ecosystem Leadership: Led deployment of the E4S stack with Spack and CI; contributed to 1,000+ package builds.
+-	Monitoring & Observability: Built monitoring stack at CZ Biohub with Prometheus, Grafana, and alerting systems.
+-	Training & Open Source: Created and maintained Buildtest, an open-source framework for HPC acceptance testing.
+-	DevOps & Containerization: Architected container workflows with Singularity, Lmod, Ansible, and GitLab CI.
+-	Performance Engineering: Expertise in SLURM, MPI/OpenMP/CUDA, and job-level analytics with XDMoD
+
+| Company | Position | Date |
+| --------- | --------- | ----- |
+| Chan Zuckerberg BioHub | HPC Principal Engineer | 01/2025-05/2025 |
+| Lawrence Berkeley National Laboratory | HPC Programming Environment Engineer | 11/2023 - 01/2025 |
+| Lawrence Berkeley National Laboratory | HPC Consultant/Software Integration Specialist | 05/2020 - 10/2023 |
+| Dassault Systemes | HPC Systems Administrator | 09/2019 - 05/2020 |
+| Pfizer | HPC Linux Engineer | 09/2016 - 09/2019 |
+| Penn State University | R&D Software Systems Engineer | Oct 2014 - Sep 2016 |
+| HPC Intern | IBM T.J Watson Center | Jun 2013 - Aug 2013 |
+| Graduate Researcher | King Abduallah University of Science & Technology | Jan 2013 - Dec 2013 |
+| Systems Analyst | Global Science and Technology | Feb 2012 - Aug 2012 |
+| Cyber Software Engineer | Northrop Grumman Corporation | Jun 2011 - Dec 2011 |
+| Database Programmer Intern | Applied Research Laboratory | May 2010 - Dec 2010 |
 
 Shahzeb has experience installing and managing large software stack, cluster manager ([Bright Cluster Manager](https://www.nvidia.com/en-us/data-center/bright-cluster-manager/), [Cobbler](https://cobbler.github.io/)), configuration management ([Ansible](https://www.ansible.com/)), GPFS,
 [Slurm](https://slurm.schedmd.com/documentation.html) and LSF. Shahzeb is an experienced Developer, Dev-Ops, System Administrator and often involved in open-source projects.
@@ -19,23 +38,20 @@ Shahzeb has experience installing and managing large software stack, cluster man
 Shahzeb Siddiqui started out his career in High Performance Computing (HPC) in 2012 at [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en)
 while pursuing his Masters. His focus in HPC includes Parallel Programming, Performance Tuning, Containers ([Singularity](https://apptainer.org/user-docs/master/index.html#), [Docker](https://www.docker.com/)),
 Linux system administration, Scientific Software Installation and testing, Scheduler Optimization, and Job Metrics.
-Shahzeb has held multiple roles in his HPC career in the following companies: Dassault-Systemes, Pfizer, Penn State, and IBM.
-Prior to 2012, he was a software engineer holding multiple roles at Global Science & Technology, Northrop Grumman, and Penn State.
 
-ORCID: https://orcid.org/0000-0002-2342-6974
+# Education & Certification
+-----------------------------
+- M.S Computer Science at [KAUST](https://www.kaust.edu.sa/en) 
+- B.S Computer Engineer at [Penn State University](https://www.psu.edu/)
 
-# Education
-
-- M.S Computer Science at [KAUST](https://www.kaust.edu.sa/en) (08/2012 - 12/2013)
-- B.S Computer Engineer at [Penn State University](https://www.psu.edu/) (08/2008 - 05/2011)
-
-Certification
---------------
 
 - [Linux Foundation Certified System Administrator (LFCS)](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/9868a0ff-6ddc-4838-9685-49be4986138b-shahzeb-mohammed-siddiqui-bab341e9-441d-4aea-b5e0-085e8b6f2ed5-certificate.pdf)
 - [Certified Associate in Python Programming](https://verify.openedg.org/?id=vAax.aini.UUwe) 
 - Red Hat Certified System Administrator (RHCSA) -  Credential ID: [200-019-677](https://rhtapps.redhat.com/verify?certId=200-019-677)
+- [Negotiation and Influence Program](https://execedcertificates.berkeley.edu/9ba36756-3b15-4dbb-8c38-79156a8fd1a0#gs.abl5ey) – UC Berkeley Executive Education
 
+For list of publications, please refer to my ORCID: https://orcid.org/0000-0002-2342-6974
+  
 GitHub Stats
 -------------
 
