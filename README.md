@@ -1,7 +1,7 @@
 # Shahzeb Siddiqui
  ![Linkedin](https://i.sstatic.net/gVE0j.png) https://www.linkedin.com/in/shahzebmsiddiqui/
  
-Seasoned HPC Engineer with 14+ years of experience designing, deploying, and optimizing high-performance computing systems across academia, national labs, and industry. Seeking to contribute deep expertise in HPC infrastructure, scientific software ecosystems, and performance engineering to drive innovation and efficiency at scale.
+Seasoned HPC Engineer with 15+ years of experience designing, deploying, and optimizing high-performance computing systems across academia, national labs, and industry. Seeking to contribute deep expertise in HPC infrastructure, scientific software ecosystems, and performance engineering to drive innovation and efficiency at scale.
 
 Shahzeb is the creator of [buildtest](https://github.com/buildtesters/buildtest) an HPC testing framework to automate build and execution of tests. He also created [lmodule](https://github.com/buildtesters/lmodule), a Python API for module system which is a spin-off from buildtest project and it is a standalone API that can be used for testing modules. 
 
@@ -20,9 +20,10 @@ Please refer to my [Resume](https://drive.google.com/file/d/1AXUlOPISA64tBYI3IIn
 
 | Company | Position | Date |
 | --------- | --------- | ----- |
+| Amentum | HPC System Administrator | 06/2025 - Present |
 | Chan Zuckerberg BioHub | HPC Principal Engineer | 01/2025-05/2025 |
 | Lawrence Berkeley National Laboratory | HPC Programming Environment Engineer | 11/2023 - 01/2025 |
-| Lawrence Berkeley National Laboratory | HPC Consultant/Software Integration Specialist | 05/2020 - 10/2023 |
+| Lawrence Berkeley National Laboratory | HPC Software Integration Specialist | 05/2020 - 10/2023 |
 | Dassault Systemes | HPC Systems Administrator | 09/2019 - 05/2020 |
 | Pfizer | HPC Linux Engineer | 09/2016 - 09/2019 |
 | Penn State University | R&D Software Systems Engineer | Oct 2014 - Sep 2016 |
