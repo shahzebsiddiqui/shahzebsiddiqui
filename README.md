@@ -11,7 +11,7 @@ Please refer to my [Resume](https://drive.google.com/file/d/1AXUlOPISA64tBYI3IIn
 
 # Experience
 
--	Extensive HPC Expertise: Delivered robust HPC infrastructure and user support at national lab, corporations and academia.
+-	Extensive HPC Expertise: Delivered robust HPC infrastructure and user support at National Lab, Corporations and Academia.
 -	Software Ecosystem Leadership: Led deployment of the E4S stack with Spack and CI; contributed to 1,000+ package builds.
 -	Monitoring & Observability: Built monitoring stack at CZ Biohub with Prometheus, Grafana, and alerting systems.
 -	Training & Open Source: Created and maintained Buildtest, an open-source framework for HPC acceptance testing.
@@ -20,7 +20,8 @@ Please refer to my [Resume](https://drive.google.com/file/d/1AXUlOPISA64tBYI3IIn
 
 | Company | Position | Date |
 | --------- | --------- | ----- |
-| Amentum | HPC System Administrator | 06/2025 - Present |
+| Rutgers University | HPC Manager | 06/2026 - Present |
+| NASA | HPC System Administrator | 06/2025 - 05/2026 |
 | Chan Zuckerberg BioHub | HPC Principal Engineer | 01/2025-05/2025 |
 | Lawrence Berkeley National Laboratory | HPC Programming Environment Engineer | 11/2023 - 01/2025 |
 | Lawrence Berkeley National Laboratory | HPC Software Integration Specialist | 05/2020 - 10/2023 |
