@@ -105,6 +105,10 @@ Technology Stack
 
 ## Conferences
 
+### 2026
+
+- [**Mixing and Matching and Multiple Versions, Oh My**](https://hpsf2026.sched.com/event/2GmZZ/mixing-and-matching-and-multiple-versions-oh-my-brad-richardson-amentum) at [HPSF Conference 2026](https://events.linuxfoundation.org/hpsf-conference/), Mar 16-20th 2026
+  
 ### 2023
 
 - [**Automated Software Testing of Spack/E4S with Buildtest**](https://docs.google.com/presentation/d/15xW4tA2eoMatMZs1cqX2fxhbuQB2bWdv/edit?usp=sharing&ouid=102126664227037583807&rtpof=true&sd=true) at [SC23](https://sc23.supercomputing.org/) in BoF *Software Testing for Scientific Computing in HPC*, Nov 15th 2023
